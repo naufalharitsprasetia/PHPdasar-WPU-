@@ -126,7 +126,7 @@ margin-top: 0;
 	color: white;
 	text-align: center;
 	align-content: center;
-	">Copyright 2022, By Naufal Harits Prasetia</h5>
+	">Copyright 2022, By Naufal Harits Prasetia --</h5>
 </div>
 
 </footer>
